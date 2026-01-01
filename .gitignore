@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv
+.env
+
+# Data (Optional - Keep this commented if you want to upload the CSV)
+# cleaned_data.csv
+# churn_dataset.csv
+
+# Model Artifacts (Optional - Keep if small enough for GitHub)
+# model.pkl
+# features.pkl
+
+# IDE
+.vscode
+.idea
