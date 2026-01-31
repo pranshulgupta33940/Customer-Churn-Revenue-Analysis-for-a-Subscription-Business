@@ -1,4 +1,4 @@
-# 📡 Telecom Customer Churn Prediction
+# 📡 Customer Churn Prediction analysis for a subscription business 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28-FF4B4B.svg)
@@ -11,9 +11,9 @@
 This project is an end-to-end Machine Learning solution designed to predict customer churn for a subscription-based telecom company. By analyzing customer demographics, service usage, and billing patterns, the model identifies "at-risk" customers before they leave.
 
 The solution is deployed as an interactive **Streamlit Web Application** that empowers business teams to:
-- 📊 **Visualize** individual customer profiles.
-- 🔮 **Predict** churn probability in real-time.
-- 💡 **Receive** actionable retention recommendations (e.g., specific discounts).
+-  **Visualize** individual customer profiles.
+-  **Predict** churn probability in real-time.
+-  **Receive** actionable retention recommendations (e.g., specific discounts).
 
 ---
 
